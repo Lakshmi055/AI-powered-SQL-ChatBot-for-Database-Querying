@@ -3,7 +3,7 @@
 ## 🚀 Features
 - Natural language to SQL
 - Multi-database support
-- Dynamic Database Extraction
+- Dynamic database extraction
 - Schema-aware query generation
 - Query validation
 - PDF export
