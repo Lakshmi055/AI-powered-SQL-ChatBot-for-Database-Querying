@@ -19,5 +19,5 @@ bash
 streamlit run app.py
 
 ## Output
-![Result](result1.png)
-![Result](result2.png)
+![Result](screenshots/result1.png)
+![Result](screenshots/result2.png)
