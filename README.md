@@ -15,5 +15,9 @@
 - OpenAI API
 
 ## ▶️ Run the app
-```bash
+bash
 streamlit run app.py
+
+## Output
+![Result](result1.png)
+![Result](result2.png)
